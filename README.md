@@ -27,7 +27,7 @@
 You all went through a pretty fast-paced introduction to programming earlier in the summer.  This is a chance to slow down and practice the basics. In addition, I will help build knowledge on additional concepts that are foundational to working effectively (version control (git, GitHub), operating system concepts, debugging, ).
 
 ## Agenda
-There are 3 parallel tracks followed by end of course project. I am planning to group classes in 12 week blocks.  This will allow us to have a bit of a break between blocks, and also allow us to have a bit of a celebration at the end of each block. Assuming kids like the format and want to continue, we'll have follow-on blocks with progressively advanced concepts.
+There are 4 parallel tracks followed by end of course project. I am planning to group classes in 12 week blocks.  This will allow us to have a bit of a break between blocks, and also allow us to have a bit of a celebration at the end of each block. Assuming kids like the format and want to continue, we'll have follow-on blocks with progressively advanced concepts.
 
 I haven't run such a class before, so I'm not sure how it will go.  I'm open to feedback and suggestions.  I'm also open to changing the format if it's not working for the kids.
 
