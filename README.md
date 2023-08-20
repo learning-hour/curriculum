@@ -11,6 +11,16 @@ I haven't run such a class before, so I'm not sure how it will go.  I'm open to 
 #### What language will be learning? 
 We'll be learning Kotlin. It is a JVM Language.  It is a modern language that is easy to learn and has a lot of features that make it easy to write code. You don't need to setup an IDE. You can play with it at https://play.kotlinlang.org/. When it makes sense, in order to learn a concept and compare across languages, we'll do that. 
 
+### Class Structure
+
+| Time          | Track                                 | 
+|---------------|---------------------------------------|
+| 16:00 - 16:15 | Track 1: News and Events              |
+| 16:15 - 16:45 | Track 2: Programming Concepts         |
+| 16:45 - 17:00 | Track 3: Concepts in Computer Science | 
+| 17:00 - 17:30 | Track 4: Help with code               |
+
+
 ### Track 1: News and Events (15 minutes)
 This is an opportunity to share what's going on in the world of technology.  I'll share some of the things I've been reading about, and we can discuss.  I'll also share some of the events that are coming up that might be of interest. Examples of interesting things to talk about are Chat-GPT and are Robots going to take over our jobs? 
 
@@ -31,7 +41,7 @@ We'll also go over the age-old question of `What's the best way to do X`? and ex
 ### Track 4: Help with code (30 minutes)
 Given kids are starting middle school, I don't want to saddle them with extra homework. Instead, we'll do a session to answer questions  and help with code.  Kids can bring in code they're working on and we'll work through it together.  We'll also use this time to help with homework assignments.  I'll also use this time to help with any questions they have about the concepts we've covered in the other tracks.
 
-### Track 4: Team project
+### Team project
 At the end, we'll embark on building a bot that we'll deploy to the cloud. It will be able to understand some commands and respond. We'll use this as a way to practice working together as a team, and also to practice the concepts we've learned. They'll need a fair bit of help and won't be ready to do this on their own.  We'll work together to figure it out.
 
 ### Follow up
