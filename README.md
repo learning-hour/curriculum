@@ -1,5 +1,6 @@
 - [Learning Hour](#learning-hour)
     * [Objective](#objective)
+      * [Do I need to know how to program?](#do-i-need-to-know-how-to-program-)
     * [Agenda](#agenda)
         - [What language will be learning?](#what-language-will-be-learning-)
         + [Class Structure](#class-structure)
