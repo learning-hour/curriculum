@@ -1,14 +1,19 @@
 # Lesson 1
 - [Lesson 1](#lesson-1)
-  - [Introduction](#introduction)
-  - [High-Level Languages](#high-level-languages)
-  - [Compilers and Interpreters](#compilers-and-interpreters)
-    - [Pros and Cons](#pros-and-cons)
-    - [Examples](#examples)
-  - [Strongly typed vs Weakly typed aka Static vs Dynamic typing](#strongly-typed-vs-weakly-typed-aka-static-vs-dynamic-typing)
-    - [Why are strongly typed languages better?](#why-are-strongly-typed-languages-better)
+  * [Introduction](#introduction)
+  * [High-Level Languages](#high-level-languages)
+  * [Compilers and Interpreters](#compilers-and-interpreters)
+    + [Pros and Cons](#pros-and-cons)
+    + [Examples](#examples)
+    + [Why isn't every language compiled if it is faster?](#why-isn-t-every-language-compiled-if-it-is-faster-)
+  * [Strongly typed vs Weakly typed aka Static vs Dynamic typing](#strongly-typed-vs-weakly-typed-aka-static-vs-dynamic-typing)
+    + [Why are strongly typed languages better?](#why-are-strongly-typed-languages-better-)
       - [Pros](#pros)
       - [Cons](#cons)
+  * [What is memory?](#what-is-memory-)
+    + [Bits, Bytes and Nibbles](#bits--bytes-and-nibbles)
+  * [What are variables?](#what-are-variables-)
+  * [What are data types?](#what-are-data-types-)
 
 
 ## Introduction
@@ -121,4 +126,44 @@ Strongly typed languages are typically better because they help prevent bugs. Fo
 * Compiled languages have longer build periods. This is because the compiler has to convert the entire program before it can be run.
 * Compiled languages have longer feedback loops. This is because the compiler can only give you feedback after you have written the entire program.
 * Compiled languages tend to be more verbose. This is because you have to declare the type of every variable. Kotlin is an exception to this rule, as it has type inference. Other languages with type inference include Swift and Rust.
+
+## What is memory?
+Memory is a series of available storage space. 
+
+![memory-variable.png](..%2Fimages%2Fmemory-variable.png)
+
+### Bits, Bytes and Nibbles
+
+* A single memory location is called a `bit`. It can store either `0` or `1`.
+* `4` consecutive `bits` are called a `nibble`. 
+* `8` consecutive `bits` are called a `byte`. 
+* `1024 bytes` is `1 kilo byte`. Note this is different from the metric convention of `1000`. Why `1024`? In computers, everything is measured in binary, hence the number base is also `2` and not `10`. `2^10 = 1024`
+* similarly `1 Mega byte = 2 ^ 20`
+
+## What are variables?
+A variable is a **named** block of memory. A variable has 
+- a `name` (we can call it by the name)
+- a `value` (what is stored in it)
+- a starting `address` location
+- an ending `address` location
+- the difference between start and end represents the length of the variable
+- In languages which allow `pointers`, you can suffer from `memory overflow` or `underflow`. A concept we'll explore in a future lesson.
+
+## What are data types?
+Every programming language has a notion of `data types` or `primitives`. These are types of data that the language comes bundled with. You can use these constructs to build more complex `data structures`. 
+
+[Kotlin](https://kotlinlang.org/docs/basic-types.html) supports
+* Numbers
+  * Byte - takes 1 byte
+  * Short - takes 2 bytes
+  * Int - takes 4 bytes
+  * Long - takes 8 bytes
+* Booleans
+  * it can represent `true` or `false`
+* Characters
+  * it stores a single character example `a` or `'`
+* Strings
+  * it stores a series of characters, including numbers
+* Arrays
+  * An array is a series of data types. It is a more advanced concept, we'll study later.
 

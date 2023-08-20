@@ -79,7 +79,7 @@ Once we conclude Track 4, let's review on what went well, and what we'd like to 
 
 ## Logistics
 I am open to reviewing what works for you all.  Here's what I'm thinking for now:
-* We'll meet every Sunday at 4pm for 1.5 hours.  It will be in person at our home. There is an option to dial in remotely. I will figure out the logistics of that and share it with you all.
+* We'll meet every Sunday at 4pm for 1.5 hours. Due to interest shown, we'll be online first. I can do in person office hours or 1-1 sessions if needed.  I'm open to feedback and suggestions
 * We may change up the schedule based on kids' soccer schedules.  We'll figure it out.
 * Horror-horror, kids will take notes on a piece of paper, the old-fashioned way. They can transcribe later on a computer. I want to ensure they are attentive in class and not distracted by technology.
 
