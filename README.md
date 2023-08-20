@@ -65,8 +65,16 @@ There's no need to buy a new computer. As long as you have a computer that can c
 
 If there's no computer, that's not an issue either.  We can work around that too.  I can read code on a piece of paper and evaluate.
 
+### Access to a free email account
+Proton Mail is a free email service that is secure and private. Its servers are hosted in Switzerland and subject to Swiss privacy laws.  I personally use their paid version would recommend using that. You *don't* need to use the paid version.  You can sign up at [protonmail.com](https://protonmail.com/) or [proton.me/mail](https://proton.me/).  
+
+Alternatively, you can use any other email service.  Examples include gmail, hotmail, yahoo. 
+
+#### Access to a free GitHub account (requires an email account)
+Assuming you have access to a computer, you'll need a GitHub account.  It's free.  You can sign up at [GitHub.com](https://GitHub.com). Feel free to make a pseudonym rather than a personal name. I want to ensure kids are safe online.  
+
 ### Homework
-There's no homework.  I want to make this fun and engaging.  I don't want to add to the homework load.  If you want to do homework, I can give you some ideas.  But it's not required. Each class we'll have a 30 minute block to help with homework.
+There's no homework.  I want to make this fun and engaging.  I don't want to add to the homework load.  If you want to do homework, I can give you some ideas.  But it's not required. Each class we'll have a 30-minute block to help with homework.
 
 ### What if I can't make it to a class?
 I will be transcribing the notes for a class ideally every Saturday before the class.  I'll post them on GitHub.  You can review them and catch up.  If you have questions, we can go over them in the next class. If you have questions before the next class, you can email me and I'll try to answer them.
