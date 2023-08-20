@@ -64,7 +64,7 @@ age = 1.0 // This would not compile, because Int and Double are different types
 //Type mismatch: inferred type is String but Int was expected
 ```
 Each line is marked with an error 
-![example-compile-error.png](..%2Fsrc%2Fmain%2Fresources%2Fexample-compile-error.png)
+![example-compile-error.png](..%2Fimages%2Fexample-compile-error.png)
 
 ``` javascript
 //Javascript example

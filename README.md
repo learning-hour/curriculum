@@ -22,6 +22,8 @@
         + [Respect school breaks](#respect-school-breaks)
         + [What if I have a question about something we didn't cover in class?](#what-if-i-have-a-question-about-something-we-didn-t-cover-in-class-)
         + [Travel Break](#travel-break)
+- Lessons
+  - [Lesson 1](src/main/resources/lessons/lesson-01.md)
 
 # Learning Hour
 
