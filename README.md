@@ -1,3 +1,26 @@
+- [Learning Hour](#learning-hour)
+    * [Objective](#objective)
+    * [Agenda](#agenda)
+        - [What language will be learning?](#what-language-will-be-learning-)
+        + [Class Structure](#class-structure)
+        + [Track 1: News and Events (15 minutes)](#track-1--news-and-events--15-minutes-)
+        + [Track 2: Programming Concepts (30 minutes)](#track-2--programming-concepts--30-minutes-)
+        + [Track 3: Concepts in Computer Science (15 minutes)](#track-3--concepts-in-computer-science--15-minutes-)
+        + [Track 4: Help with code (30 minutes)](#track-4--help-with-code--30-minutes-)
+        + [Team project](#team-project)
+        + [Follow up](#follow-up)
+    * [Logistics](#logistics)
+        + [Cost](#cost)
+        + [Equipment](#equipment)
+        + [Access to a free email account](#access-to-a-free-email-account)
+        + [Access to a free GitHub account (requires an email account)](#access-to-a-free-github-account--requires-an-email-account-)
+        + [Homework](#homework)
+        + [What if I can't make it to a class?](#what-if-i-can-t-make-it-to-a-class-)
+        + [What if I have questions?](#what-if-i-have-questions-)
+        + [Respect school breaks](#respect-school-breaks)
+        + [What if I have a question about something we didn't cover in class?](#what-if-i-have-a-question-about-something-we-didn-t-cover-in-class-)
+        + [Travel Break](#travel-break)
+
 # Learning Hour
 
 ## Objective
@@ -70,7 +93,7 @@ Proton Mail is a free email service that is secure and private. Its servers are 
 
 Alternatively, you can use any other email service.  Examples include gmail, hotmail, yahoo. 
 
-#### Access to a free GitHub account (requires an email account)
+### Access to a free GitHub account (requires an email account)
 Assuming you have access to a computer, you'll need a GitHub account.  It's free.  You can sign up at [GitHub.com](https://GitHub.com). Feel free to make a pseudonym rather than a personal name. I want to ensure kids are safe online.  
 
 ### Homework
