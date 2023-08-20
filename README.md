@@ -17,6 +17,7 @@
         + [Access to a free GitHub account (requires an email account)](#access-to-a-free-github-account--requires-an-email-account-)
         + [Homework](#homework)
         + [What if I can't make it to a class?](#what-if-i-can-t-make-it-to-a-class-)
+          + [Remote option](#remote-option)
         + [What if I have questions?](#what-if-i-have-questions-)
         + [Respect school breaks](#respect-school-breaks)
         + [What if I have a question about something we didn't cover in class?](#what-if-i-have-a-question-about-something-we-didn-t-cover-in-class-)
@@ -108,6 +109,7 @@ I will be transcribing the notes for a class ideally every Saturday before the c
 
 If you miss a class, we can go over the notes in the next class.  If you have questions, we can go over them in the next class. If you have questions before the next class, you can email me and I'll try to answer them.
 
+#### Remote option
 Additionally, students have the option of dialing in remotely. I will figure out the logistics of that and share it with you all.
 
 ### What if I have questions?
