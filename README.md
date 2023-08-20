@@ -26,6 +26,9 @@
 ## Objective
 You all went through a pretty fast-paced introduction to programming earlier in the summer.  This is a chance to slow down and practice the basics. In addition, I will help build knowledge on additional concepts that are foundational to working effectively (version control (git, GitHub), operating system concepts, debugging, ).
 
+### Do I need to know how to program?
+No. It is a beginner's class and we'll start from the basics.  If you already know how to program, that's great.  You can help others.  If you don't know how to program, that's fine too.  We'll start from the basics.  I'll also share some resources that you can use to learn on your own.
+
 ## Agenda
 There are 4 parallel tracks followed by end of course project. I am planning to group classes in 12 week blocks.  This will allow us to have a bit of a break between blocks, and also allow us to have a bit of a celebration at the end of each block. Assuming kids like the format and want to continue, we'll have follow-on blocks with progressively advanced concepts.
 
