@@ -26,6 +26,38 @@ These instructions are typically represented in binary. For example, the instruc
 ## High-Level Languages
 In order to make programming easier, we use high-level languages. These languages are typically closer to human language. For example, the instruction to add two values in memory could be represented as `add`. This is much easier to read and understand.
 
+```kotlin
+fun add(firstNumber: Int, secondNumber: Int): Int {
+    return firstNumber + secondNumber
+}
+
+fun main(args: Array<String>) {
+  //Kotlin example
+  val first: Int = 10
+  val second = 20 //example of type inference
+  val result = add(first, second)
+  println("Result is $result")
+}
+```
+
+It might get compiled into the following pseudocode (it is still more high-level than closer to binary level)
+``` 
+ ALLOCATE MEMORY LOCATION
+ ASSIGN NAME TO MEMORY LOCATION first
+ STORE 10 in MEMRORY LOCATION first
+ ALLOCATE MEMORY LOCATION
+ ASSIGN NAME TO MEMORY LOCATION second
+ STORE 20 in MEMRORY LOCATION second
+ ALLOCATE MEMORY LOCATION
+ ASSIGN NAME TO MEMORY LOCATION result
+ RECALL MEMORY location first and store in MEMORY REGISTER
+ RECALL MEMORY location second and store in MEMORY REGISTER
+ COMPUTE first + second AND STORE result in MEMORY LOCATION result
+ DISPLAY TEXT 
+```
+
+a higher language is easier for humans to understand and organize.
+
 ## Compilers and Interpreters
 In order for a computer to understand a high-level language, we need to convert it to a low-level language. This is where compilers and interpreters come in. 
 
