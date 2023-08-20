@@ -76,7 +76,7 @@ Once we conclude Track 4, let's review on what went well, and what we'd like to 
 
 ## Logistics
 I am open to reviewing what works for you all.  Here's what I'm thinking for now:
-* We'll meet every Sunday at 4pm for 1.5 hours.  It will be in person at our home.
+* We'll meet every Sunday at 4pm for 1.5 hours.  It will be in person at our home. There is an option to dial in remotely. I will figure out the logistics of that and share it with you all.
 * We may change up the schedule based on kids' soccer schedules.  We'll figure it out.
 * Horror-horror, kids will take notes on a piece of paper, the old-fashioned way. They can transcribe later on a computer. I want to ensure they are attentive in class and not distracted by technology.
 
@@ -107,6 +107,8 @@ There's no homework.  I want to make this fun and engaging.  I don't want to add
 I will be transcribing the notes for a class ideally every Saturday before the class.  I'll post them on GitHub.  You can review them and catch up.  If you have questions, we can go over them in the next class. If you have questions before the next class, you can email me and I'll try to answer them.
 
 If you miss a class, we can go over the notes in the next class.  If you have questions, we can go over them in the next class. If you have questions before the next class, you can email me and I'll try to answer them.
+
+Additionally, students have the option of dialing in remotely. I will figure out the logistics of that and share it with you all.
 
 ### What if I have questions?
 You can email me at [nasir@rasul.ca](mailto:nasir@rasul.ca)
