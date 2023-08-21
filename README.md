@@ -23,7 +23,7 @@
         + [What if I have a question about something we didn't cover in class?](#what-if-i-have-a-question-about-something-we-didn-t-cover-in-class-)
         + [Travel Break](#travel-break)
 - Lessons
-  - [Lesson 1 - High-Level Introduction](src/main/resources/lessons/lesson-01.md)
+  - [Lesson 1 - High-Level Introduction](src/main/resources/lessons/lesson-01-high-level-introduction.md)
 
 # Learning Hour
 
