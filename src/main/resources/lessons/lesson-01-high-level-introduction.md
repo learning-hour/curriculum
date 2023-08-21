@@ -130,6 +130,11 @@ Strongly typed languages are typically better because they help prevent bugs. Fo
 ## What is memory?
 Memory is a series of available storage space. 
 
+Imagine the following variable declaration
+```kotlin
+val age: Int = 10
+```
+
 ![memory-variable.png](..%2Fimages%2Fmemory-variable.png)
 
 ### Bits, Bytes and Nibbles
