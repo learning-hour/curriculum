@@ -2,7 +2,11 @@ package examples
 
 fun main(args: Array<String>) {
     //Kotlin example
-    var age: Int = 2
-    var name: String = "John"
-    println("$name is $age years old")
+    var age = 20
+    var floatingNumber = 23.5
+    var name = "John"
+    floatingNumber = 50.0
+    println("$name is $age years old. $floatingNumber")
+    name = "Nasir"
+    println("$name is $age years old. $floatingNumber")
 }
