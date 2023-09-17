@@ -35,7 +35,7 @@ So a `byte` has `8` `bits` ... hence the maximum number would be
 ```
 
 ### What if you want to store a larger number?
-What if you could use `2 bytes` to store a number? How big a number can you store?
+What if you could use `2 bytes (16 bits)` to store a number? How big a number can you store?
 
 ```
 1111111111111111 = 65,535
@@ -43,8 +43,8 @@ What if you could use `2 bytes` to store a number? How big a number can you stor
 
 Notice, that inorder to store larger numbers, we need to use more memory.
 
-using `3 bytes`, we can store `unsigned` max of `16,777,215`
-using `4 bytes`, we can store `unsigned` max of `4,294,967,295`
+using `3 bytes (24 bits)`, we can store `unsigned` max of `16,777,215`
+using `4 bytes (32 bits)`, we can store `unsigned` max of `4,294,967,295`
 
 ### What if you want to store negative numbers i.e signed?
 This is possible ... we will do a deeper dive in a future lesson.
