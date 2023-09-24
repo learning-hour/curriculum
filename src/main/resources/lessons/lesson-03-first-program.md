@@ -23,6 +23,12 @@ Examples:
   this in a future session.
 
 ```kotlin
+// this is a comment
+// comments start with two slashes
+/*
+ multi line comments are enclosed with /* and */
+ */
+// fun is a keyword
 fun main() {
     println("Hello world!")
 }
@@ -64,5 +70,5 @@ fun sum(a: Int, b: Int): Int {
 ### Exercise
 
 - Create a function that does `subtraction`, `multiplication` and `division`
-
+- what happens if we rename `main` to `something`? or `main2`?
 
