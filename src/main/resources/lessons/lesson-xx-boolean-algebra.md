@@ -1,7 +1,3 @@
-# Lesson 3
-
-Recall `bit`, `nibble` and `byte`.
-
 ## Boolean algebra
 
 ## logical OR
@@ -11,4 +7,3 @@ Recall `bit`, `nibble` and `byte`.
 ## logical XOR
 
 ## logical NOT
-

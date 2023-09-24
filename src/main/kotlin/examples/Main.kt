@@ -1,6 +1,6 @@
 package examples
 
-fun main(args: Array<String>) {
+fun main() {
     //Kotlin example
     var age = 20
     var floatingNumber = 23.5
