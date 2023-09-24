@@ -31,6 +31,22 @@ These instructions are typically represented in binary. For example, the instruc
 ## High-Level Languages
 In order to make programming easier, we use high-level languages. These languages are typically closer to human language. For example, the instruction to add two values in memory could be represented as `add`. This is much easier to read and understand.
 
+```javascript
+function main() {
+  //Kotlin example
+  var first: Int = 10
+  var second = 20 //example of type inference
+  var result = add(first, second)
+  println("Result is $result")
+}
+
+function add(firstNumber, secondNumber) {
+  return firstNumber + secondNumber
+}
+```
+
+
+
 ```kotlin
 fun add(firstNumber: Int, secondNumber: Int): Int {
     return firstNumber + secondNumber

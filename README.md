@@ -24,6 +24,37 @@
         + [Travel Break](#travel-break)
 - Lessons
   - [Lesson 1 - High-Level Introduction](src/main/resources/lessons/lesson-01-high-level-introduction.md)
+  - [Lesson 2 - Variables and Data Types](src/main/resources/lessons/lesson-02-variables-and-data-types.md)
+  - [Lesson 3 - First Program](src/main/resources/lessons/lesson-03-first-program.md)
+  - [Lesson 4 - Functions](src/main/resources/lessons/lesson-04-functions.md)
+
+[//]: # (  - [Lesson 5 - Data Structures]&#40;src/main/resources/lessons/lesson-05-data-structures.md&#41;)
+
+[//]: # (  - [Lesson 6 - Control Flow]&#40;src/main/resources/lessons/lesson-06-control-flow.md&#41;)
+
+[//]: # (  - [Lesson 7 - Debugging]&#40;src/main/resources/lessons/lesson-07-debugging.md&#41;)
+
+[//]: # (  - [Lesson 8 - Classes]&#40;src/main/resources/lessons/lesson-08-classes.md&#41;)
+
+[//]: # (  - [Lesson 9 - Inheritance]&#40;src/main/resources/lessons/lesson-09-inheritance.md&#41;)
+
+[//]: # (  - [Lesson 10 - Interfaces]&#40;src/main/resources/lessons/lesson-10-interfaces.md&#41;)
+
+[//]: # (  - [Lesson 11 - Extension Functions]&#40;src/main/resources/lessons/lesson-11-extension-functions.md&#41;)
+
+[//]: # (  - [Lesson 12 - Sealed Classes]&#40;src/main/resources/lessons/lesson-12-sealed-classes.md&#41;)
+
+[//]: # (  - [Lesson 13 - Algorithms]&#40;src/main/resources/lessons/lesson-13-algorithms.md&#41;)
+
+[//]: # (  - [Lesson 14 - Data Structures]&#40;src/main/resources/lessons/lesson-14-data-structures.md&#41;)
+
+[//]: # (  - [Lesson 15 - Operating Systems]&#40;src/main/resources/lessons/lesson-15-operating-systems.md&#41;)
+
+[//]: # (  - [Lesson 16 - Version Control]&#40;src/main/resources/lessons/lesson-16-version-control.md&#41;)
+
+[//]: # (  - [Lesson - Project]&#40;src/main/resources/lessons/lesson-project.md&#41;)
+
+[//]: # (  - [Lesson xx - Boolean Algebra]&#40;src/main/resources/lessons/lesson-xx-boolean-algebra.md&#41;)
 
 # Learning Hour
 
