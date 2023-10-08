@@ -7,7 +7,6 @@ fun main() {
     greetWithElse(10)
 }
 
-//note there is no else
 fun greetWithElse(age: Int) {
     if (age > 13) {
         println("secret kid greeting")
