@@ -1,0 +1,40 @@
+You are to write a program that will take a list of names. If it matches one of the planets, it will provide a message.
+In the event, it doesn't, it will return a different message.
+
+Mercury: It's the first planet.
+Venus: It's the second planet.
+Earth: We live on this planet.
+Mars: It's the fourth planet.
+Jupiter: It's the fifth planet.
+Saturn: It's the sixth planet.
+Uranus: It's the seventh planet.
+Neptune: It's the last planet in the solar system.
+Pluto: It is not considered a planet anymore.
+Any other value should state that we are expecting planet names in our solar system.
+
+
+Hint: You'll need to use the case statement we learnt the `when` statement in lesson 7/8.
+
+
+example:
+
+The full form is as below...
+```
+fun lesson7aGreet(age: Int) {
+    when {
+        age < 10 -> println("secret kid greeting - Your age is $age")
+        age == 10 -> println("Congratulations. You are exactly a 10")
+        age > 10 -> println("hello - Your age is $age")
+    }
+}
+```
+
+You may find it easier to use the shortened form.
+
+fun planetName(name: String) {
+    when (name) {
+        "<somename>" -> println("some message")
+        "<someOthername>" -> println("some message")
+        else -> println("handles all other undefined cases")
+    }
+}

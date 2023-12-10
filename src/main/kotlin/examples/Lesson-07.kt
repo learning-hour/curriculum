@@ -1,5 +1,5 @@
 fun main() {
-    for (index in 1..20) {
+    for (index in 1..20 step 2) {
         lesson7bGreet(index)
     }
 }
