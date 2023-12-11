@@ -1,5 +1,7 @@
 package examples
 
+import examples.Planet.Earth
+
 
 enum class Planet {
     Mercury,
@@ -13,8 +15,16 @@ enum class Planet {
 }
 
 fun main() {
-    println(lesson10("Earth"))
-    println(lesson10("earth"))
+    Planet.values().forEach {
+        planet(it)
+    }
+}
+
+fun planet(name: Planet){
+    when (name){
+        Planet.Earth -> println("I live here - Planet is $name")
+        else -> println("I don't live here: Planet is $name")
+    }
 }
 
 fun lesson10(planet: String): Planet {
